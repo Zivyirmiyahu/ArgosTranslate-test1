@@ -1,0 +1,8 @@
+streamlit
+argostranslate
+ctranslate2>=4.0,<5
+sentencepiece==0.2.0
+spacy
+stanza==1.10.1
+packaging
+sacremoses>=0.0.53,<0.2
